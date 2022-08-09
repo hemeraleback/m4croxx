@@ -19,6 +19,4 @@ but i use:
 
 
 
-### What is in my PC?
-my specs are [Here](https://m4croxx.github.io/)
 #### Affilied with [HemeraleBack](https://github.com/hemeraleback)
