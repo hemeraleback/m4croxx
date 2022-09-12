@@ -1,22 +1,10 @@
-# Hi! 👋
+Affilied with [Hemerale Back](https://github.com/hemeraleback)
 
-### Who am I?
+## 🤔 Who am I?
 I'm an Italian guy who loves PC, Videogames, Videomaking, English and Algebra. 
 I have many projects in mind for the future and I will carry them out, even though I know they will be very complicated.
 
-### What can I do? 
-barely nothing lmao
+## 🖥️ What can I do? 
+I haven't done a lot of things about programming but I've learned some things about [Python](https://github.com/m4croxx/Python), and [C++](https://cplusplus.com/). I know how tu use [Blender](https://www.blender.org/) for making 3D models, and I know a lot of things about graphics desing, in which I use [Adobe Photoshop](https://www.adobe.com/it/products/photoshop.html), [Adobe Premiere Pro](https://www.adobe.com/it/products/premiere.html) and [Adobe After Effect](https://www.adobe.com/it/products/aftereffects.html)
 
-but i use:
-
-![Adobe](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe&color=FF0000&logo=Adobe&logoColor=FFFFFF&label=)
-![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
-![Adobe Premiere Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Premiere+Pro&color=9999FF&logo=Adobe+Premiere+Pro&logoColor=FFFFFF&label=)
-![Adobe After Effects](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+After+Effects&color=9999FF&logo=Adobe+After+Effects&logoColor=FFFFFF&label=)
-![Adobe Lightroom](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Lightroom&color=31A8FF&logo=Adobe+Lightroom&logoColor=FFFFFF&label=)
-![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
-![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
-
-
-
-#### Affilied with [HemeraleBack](https://github.com/hemeraleback)
+<p align="center"><img src="https://m4croxx.github.io/logo.png" width="100" height="100"></p>
